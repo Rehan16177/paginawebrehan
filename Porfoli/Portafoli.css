@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "PlaywriteVN";
+    src: url("japones/PlaywriteVN-VariableFont_wght.ttf")
+}
+body{
+    background-color: #00ffff;
+    color: #963e0c;
+}
+.Portafoli{
+    color: #201c20;
+    font-family: "PlaywriteVN";
+    font-size: 40pX;
+} 
