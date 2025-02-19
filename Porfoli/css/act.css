@@ -1,13 +1,13 @@
 
 body {
     font-family: 'Fira Code', monospace;
-    background-color: #009FBD;
-    color: #FF2929;
+    background-color: #007258;
+    color: #eee8a9;
 }
 
 .titol {
     font-size: 50px;
-    color: #FF2929;
+    color: #eee8a9;
     margin: 20px 20px 10px 20px;
 }
 
@@ -20,7 +20,7 @@ header {
     margin-right: 20px;
 }
 
-.contenidor-titol-logo {
+.contenidor-titol-logo { 
     display: flex;
 }
 
@@ -44,7 +44,7 @@ header {
 
 .li-menu-superior::after {
     height: 2px;
-    background-color: #009FBD;
+    background-color: #007258;
 }
 
 .li-menu-superior:hover::after {
@@ -53,11 +53,11 @@ header {
 
 a {
     text-decoration: none;
-    color: #FF2929;
+    color: #eee8a9;
 }
 
 .text-color {
-    color: #FF2929;
+    color: #eee8a9;
 }
 
 .contingut-principal {
@@ -132,7 +132,7 @@ a {
 
 .li-link-projecte {
     padding: 10px;
-    border: 2px solid #FF2929;
+    border: 2px solid #eee8a9;
     border-radius: 5px;
 }
 .titol-contactam {
@@ -169,7 +169,7 @@ textarea {
     padding: 10px;
     border: 1px solid #C778DD;
     border-radius: 5px;
-    background-color: #009FBD;
+    background-color: #007258;
     color: #ABB2BF;
     margin-top: -20px;
 }
@@ -179,7 +179,7 @@ input[type="submit"] {
     margin-top: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #009FBD;
+    background-color: #007258;
     color: #fff;
     cursor: pointer;
 }
@@ -197,8 +197,8 @@ input[type="submit"]:hover {
 
 .-link-cv:hover {
     cursor: pointer;
-    color: #FF2929;
-    background-color: #009FBD;
+    color: #eee8a9;
+    background-color: #007258;
     animation: 10s;
 }
 
@@ -266,6 +266,6 @@ div {
 }
 
 .a-:hover {
-    background-color: #009FBD;
-    color: #FF2929;
+    background-color: #007258;
+    color: #eee8a9;
 }
