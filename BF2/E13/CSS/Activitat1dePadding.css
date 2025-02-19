@@ -1,4 +1,4 @@
-.body{
+body{
     background-color: #ecbe78;
 }
 
@@ -21,7 +21,8 @@
 
 
 .foto {
-    align-self: center;
+    align-self: center; 
+    
 }
 
 .boto1 {
