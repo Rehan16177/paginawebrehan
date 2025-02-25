@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "PlaywriteVN";
+    src: url("../css/Fonts/japones/PlaywriteVN-VariableFont_wght.ttf")
+}
+.free{
+    text-decoration: underline;
+}
+.color{
+    background-color: #91a619;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+.ux{
+    font-size: 40px;
+    margin-left: 700px;
+    margin-top: 100px;
+    font-weight: bold; 
+    font-family: "PlaywriteVN";
+}
+.un{
+    width: 50%;
+}
+.learn{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.lee{
+    width: 50%;
+}
+.register{
+    margin-left: 700px;
+    margin-top: 100px;
+    border-radius: 40px;
+    border: 2px solid #000000;
+    width: 100px;
+    height: 52px;
+    background-color: #ffffff;
+}

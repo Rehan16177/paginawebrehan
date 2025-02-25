@@ -1,0 +1,42 @@
+body{
+    background-color: #bfff00;
+}
+.your{
+    margin-left: 70px;
+    text-align: center;
+}
+p {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.out {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    display: block;
+    margin: auto;
+
+}
+
+.primerboto {
+    display: block;
+    margin: auto;
+    border: solid;
+    border-radius: 20px;
+    padding: 10px 22px;
+    background-color: #ff4d00;
+    border: transparent;
+}
+
+.we{
+    margin-left: 70px;
+    text-align: center;
+}
+
+.segonboto {
+    font-weight: bold;
+}

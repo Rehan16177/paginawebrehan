@@ -1,0 +1,243 @@
+
+body {
+    font-family: 'Fira Code', monospace;
+    background-color: #007258; 
+    color: #eee8a9;
+}
+
+.titol {
+    font-size: 50px;
+    color: #eee8a9;
+    margin: 20px 20px 10px 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    padding: 0 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contenidor-titol-logo {  
+    display: flex;
+}
+
+.contingut-principal-contacte {
+    margin-top: 100px;
+}
+
+.menu-superior {
+    list-style: none;
+    display: flex;
+    margin: 0px 10px 0px 50px;
+}
+
+.-menu-superior {
+    margin: 10px 10px;
+    padding-bottom: 4px;
+}
+
+.-menu-superior::after {
+    height: 2px;
+    background-color: #007258;
+}
+
+.-menu-superior:hover::after {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #eee8a9;
+}
+
+.text-color {
+    color: #eee8a9;
+}
+
+.contingut-principal {
+    align-items: center;
+    padding: 0 100px;
+}
+
+.contingut-principal-cv {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0 100px;
+    margin-left: 350px;
+}
+
+
+.contenidor-superior {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.contenidor-superior-cv {
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    align-items: center;
+    
+}
+
+.contenidor-iconos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contenidor-iconos img {
+    margin-bottom: 10px;
+}
+a {
+    margin-left: 10px;
+}
+
+.avatar {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+.foto-icono-sobremi {
+    width: 50px;
+}
+
+
+.li-link-projecte {
+    padding: 10px;
+    border: 2px solid #eee8a9;
+    border-radius: 5px;
+}
+.titol-contactam {
+    margin-top: 50px;
+}
+
+.titol-formulari {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.titol-formulari2 {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-top: 100px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+}
+
+input[type="text"],
+input[type="correu"],
+textarea {
+    padding: 10px;
+    border: 1px solid #C778DD;
+    border-radius: 5px;
+    background-color: #007258;
+    color: #ABB2BF;
+    margin-top: -20px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007258;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #ABB2BF;
+    color: #FF2929;
+}
+
+
+.-link-cv {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.-link-cv:hover {
+    cursor: pointer;
+    color: #eee8a9;
+    background-color: #007258;
+    animation: 10s;
+}
+
+.imatge-cv {
+    height: 500px;
+    width: auto;
+}
+
+.boto- {
+    list-style-type: none;
+}
+
+.titols-principals {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+.ache1 {
+    text-align: center;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    border-radius: 10px; 
+}
+
+.nav- .ul- {
+    padding: 1em;
+}
+
+.ul- {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px; 
+    text-align: center;
+}
+
+.titols-principals {
+    border-radius: 10px; 
+    text-align: center;
+}
+
+div {
+    display: flex; 
+    justify-content: center;
+}
+
+.ul- {
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
+.a-:hover {
+    background-color: #007258;
+    color: #eee8a9;
+}

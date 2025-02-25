@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "NotoSansJP";
+    src: url("../css/Fonts/japones/NotoSansJP-VariableFont_wght.ttf")
+}
+
+@font-face {
+    font-family: "PlaywriteVN";
+    src: url("../css/Fonts/japones/PlaywriteVN-VariableFont_wght.ttf")
+}
+
+.body-text2{
+    font-family: "NotoSansJP";
+    font-size: 30PX;
+    color: #b82222;
+}
+.body-text1{
+    font-family: "PlaywriteVN";
+    font-size: 30PX;
+    color: #8fdb15; 
+}

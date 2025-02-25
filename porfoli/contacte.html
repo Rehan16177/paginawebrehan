@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacte - Rehan Ikhlaq</title>
+    <link rel="stylesheet" href="css/Portafoli.css">
+</head>
+<body>
+    <header>
+        <div class="contenidor-titol-logo">
+            <img class="logo" src="" alt=""> 
+            <h1 class="titol"><span class="text-color"></span></h1>  
+        </div>
+        <nav>
+            <ul class="menu-superior">
+                <li><a class="-menu-superior" href="index.html"><span class="text-colo"></span>Inici</a></li>
+                <li><a class="-menu-superior" href="Portafoli.html"><span class="text-colo"></span>Activitats</a></li>
+                <li><a class="-menu-superior" href="jo.html"><span class="text-colo"></span>Sobre mi</a></li>
+                <li><a class="-menu-superior" href="contacte.html"><span class="text-colo"></span>Contacte</a></li>
+                <li><a class="-link-cv" href="../BF1/E5/img/Currículum.jpg" target="_blank">CV</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="formulari-contacte">
+            <div class="titol-formulari"><h1 class="titol-contact">Contactat amb mi</h1>
+            <p class="Formular">Omple el següent formulari per enviar-me un correu.</p></div>
+            <form action="enviar-correu.php" method="GET">
+                <label for="nom"></label><br>
+                <input type="text" id="nom" name="nom" required placeholder="Nom"><br>
+
+                <label for="correu"></label><br>
+                <input type="correu" id="correu" name="correu" required placeholder="Correu"><br>
+
+                <label for="missatge"></label><br>
+                <textarea id="missatge" name="missatge" rows="4" required placeholder="Missatge"></textarea><br>
+
+                <input type="submit" value="Enviar">
+            </form>
+        </div>
+    </main>
+</body>
+</html>
