@@ -182,7 +182,6 @@ input[type="submit"]:hover {
     cursor: pointer;
     color: #eee8a9;
     background-color: #007258;
-    animation: 10s;
 }
 
 .imatge-cv {
