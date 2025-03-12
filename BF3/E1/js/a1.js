@@ -5,4 +5,4 @@ console.log(cadenaMayusculas);
 const cadenaMinusculas = parraf.toLowerCase();
 console.log(cadenaMinusculas);
 const longitud = parraf.length;
-console.log(longitud);
+console.log(longitud); 
