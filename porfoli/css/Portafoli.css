@@ -12,7 +12,7 @@ body {
 
 header {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;  
     align-items: center;
     padding: 0 20px;
     margin-left: 30px;
@@ -93,8 +93,12 @@ a {
 .text-color {
     color: #eee8a9;
     margin-right: 10px;
+    
 }
 
+.rehan{
+    font-size: 70px;
+}
 
 .contingut-principal {
     align-items: center;
@@ -212,7 +216,7 @@ textarea {
     border-radius: 5px;
     background-color: #333;
     color: #eee8a9;
-    margin-top: -20px;
+    margin-top: 20px;
 }
 
 input[type="submit"] {
@@ -257,6 +261,9 @@ input[type="submit"]:hover {
     min-height: 50%;
     float: left;
     
+}
+#pak{
+    display: none;
 }
 
 

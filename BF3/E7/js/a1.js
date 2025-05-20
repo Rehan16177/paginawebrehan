@@ -2,7 +2,7 @@ function presente(id,bclass) {
     var element = document.querySelector(id);
     element.style.color = "#008000";
     var botons = document.getElementsByClassName(bclass);
-    for(var pos = 0; pos < botons.length; pos++) {
+    for(var pos = 0; pos < botons.length; pos++) { 
         botons[pos].style.display = "none";
 
     } 
