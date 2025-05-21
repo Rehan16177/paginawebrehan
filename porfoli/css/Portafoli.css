@@ -266,5 +266,13 @@ input[type="submit"]:hover {
     display: none;
 }
 
+.iconon{
+    font-size: 35px;    
+    margin: auto;
+    text-align: center;
+}
 
-
+#carousel{
+    display: block;
+    margin: auto;
+}
